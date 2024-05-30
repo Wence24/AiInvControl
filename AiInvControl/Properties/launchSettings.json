@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AiInvControl": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Wence Dante\\source\\repos\\AiInvControl\\AiInvControl\\bin\\Debug\\net8.0-windows"
+    }
+  }
+}

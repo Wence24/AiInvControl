@@ -1,0 +1,43 @@
+Cons_Item,Item,Previous_Sales,Sales,Price
+Retail Beans,A/P Blend 1lb bag,2,2,$42.00 
+Retail Beans,A/P Blend 5lb Bag,28,6,$655.00 
+Espresso (Add Shot),2,112,112,$420.00 
+Retail Beans,African Presence Blend 5lbs,16,1,$120.00 
+Americano,Americano,89,1446,"$6,145.50 "
+Cafe Au Lait,Au Lait,50,217,"$1,116.50 "
+Meat Croissant,Bacon Egg Pastry,93,39,$156.00 
+Bannana Bread,Banana Bread,85,602,"$3,079.50 "
+Water,Bottled Water,139,139,$415.50 
+Plain Croissant,Butter Croissant,930,930,"$3,387.00 "
+Cappucino,3,80,3442,"$18,081.00 "
+Cortado,Cento,33,460,"$2,138.50 "
+Tea,Chai,9,9,$39.00 
+Chocolate Croissant,Chocolate Croissant,1500,1500,"$5,984.00 "
+Retail Beans,Clutch Blend 5lb Bag,93,4,$440.00 
+Cold Brew,Cold Brew,2083,2083,"$9,428.00 "
+Cookie,Cookie,206,206,$520.00 
+Coffee,Drip,432,432,"$1,728.00 "
+Coffee,Drip Coffee,3638,3638,"$14,559.00 "
+Espresso,1,99,842,"$3,578.50 "
+Meat Croissant,Ham & Cheese Pastry,839,839,"$3,621.50 "
+Horchata Latte,Horchata Latte,2040,2040,"$12,240.00 "
+Hot Chocolate,Hot Chocolate,290,290,"$1,201.00 "
+Tea,Hot Tea,361,361,"$1,450.00 "
+Iced Tea,4,74,120,$556.00 
+Water,La Croix,73,73,$235.00 
+Latte,Latte,4642,4642,"$27,654.25 "
+Resale,Long sleeve Tee,9,9,$270.00 
+Macau,Macau Iced Coffee,838,838,"$5,033.00 "
+Machiatto,5,77,378,"$1,720.75 "
+Resale,Merch,14,14,$307.00 
+Mocha,Mocha,2380,2380,"$14,567.75 "
+Meat Croissant,Prosciutto Havarti,131,131,$786.00 
+Retail Beans,Retail Beans,541,541,"$11,902.00 "
+Resale,Salad,11,11,$110.00 
+Meat Croissant,Salami Provolone,264,264,"$1,410.00 "
+Resale,Short Sleeve Tee,7,7,$175.00 
+Veggie Croissant,Spinach Feta Pastry,36,36,$162.00 
+Veggie Croissant,Spinach Feta Pastry,1378,1378,"$6,044.25 "
+Tea,Tea,109,109,$442.25 
+Water,Topo Chico,7,7,$24.50 
+Resale,Custom Amount,798,798,"$13,389.88 "

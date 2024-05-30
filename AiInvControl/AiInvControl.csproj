@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFramework>net8.0-windows8.0</TargetFramework>
+    <UseWPF>False</UseWPF>
+    <Platforms>AnyCPU;ARM32</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="ai.scikitlearn4net" Version="0.0.4" />
+    <PackageReference Include="Guna.Charts.WinForms" Version="1.0.9" />
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.5" />
+    <PackageReference Include="Microsoft.ML" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML.AutoML" Version="0.21.1" />
+    <PackageReference Include="Microsoft.ML.CpuMath" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" Version="1.18.0" />
+    <PackageReference Include="python" Version="3.12.3" />
+    <PackageReference Include="Python.Deployment" Version="2.0.5" />
+    <PackageReference Include="Python.Runtime" Version="2.7.9" />
+    <PackageReference Include="Python.Runtime.AllPlatforms" Version="3.7.2.4" />
+    <PackageReference Include="Python.Runtime.NETStandard" Version="3.7.1" />
+    <PackageReference Include="Python.Runtime.Windows" Version="3.7.2" />
+    <PackageReference Include="pythonnet" Version="3.0.3" />
+    <PackageReference Include="Scikit.ML.DataFrame" Version="0.4.0" />
+    <PackageReference Include="Syncfusion.Chart.Windows" Version="25.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
